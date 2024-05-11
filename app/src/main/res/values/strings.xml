@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodsList</string>
+    <string name="search_food">Find your food</string>
+    <string name="empty_foods">There is no food found!</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_fav">Favorites</string>
+    <string name="menu_about">About</string>
+    <string name="about_email">Email: drbiosyk007@gmail.com</string>
+    <string name="about_name">Nama: Bios Adi Saputra</string>
+    <string name="about_photo_url">https://res.cloudinary.com/donszjd2v/image/upload/v1715334056/zs3q2teai6ppcfmmgvfo.jpg</string>
+    <string name="about_me">About Me</string>
+    <string name="kampus">Asal Perguruan Tinggi: Universitas Pembangunan "Veteran" Nasional Yogyakarta</string>
+    <string name="detail">Detail</string>
+    <string name="jurusan">Jurusan: Jurusan Informatika</string>
+    <string name="back">Back</string>
+</resources>
